@@ -1,0 +1,4 @@
+{
+    "source_compartment_id" : "ocid1.compartment.xxxxxxxxxxxxxxxxx",
+    "destination_compartment_id" : "ocid1.compartment.xxxxxxxxxxxxxxxxxx"
+    }
