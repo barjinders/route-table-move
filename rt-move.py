@@ -6,7 +6,7 @@ from datetime import datetime
 start = datetime.now()
 config = oci.config.from_file("~/.oci/configp", "DEFAULT")
 # open the JSON file
-f = open('userInputs.json')
+f = open('userInput.json')
 
 # parse the JSON file
 try:
